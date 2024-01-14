@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trung-git&label=Profile%20views&color=0e75b6&style=flat" alt="trung-git" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently specializing in **MERN Stack**
 
 - 📫 How to reach me **trunght1810@gmail.com**
 
-- 📄 Know about my experiences [https://trung-git.github.io/cv-trung/](https://trung-git.github.io/cv-trung/)
+- 📄 Know about my experiences [[https://trung-git.github.io/cv-trung/]](https://www.linkedin.com/in/trung-huynh-7522b5213/)
 
 - ⚡ Fun fact **I think i am funny**
 
