@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **trunght1810@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/trung-huynh-7522b5213/]](https://www.linkedin.com/in/trung-huynh-7522b5213/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/trung-huynh-7522b5213/](https://www.linkedin.com/in/trung-huynh-7522b5213/)
 
 - ⚡ Fun fact **I think i am funny**
 
